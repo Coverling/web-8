@@ -13,10 +13,10 @@ import (
 
 const (
 	host     = "localhost"
-	port     = 5432
+	port     = 5433
 	user     = "postgres"
-	password = "postgres"
-	dbname   = "sandbox"
+	password = "postgres1"
+	dbname   = "mydatabase"
 )
 
 type Handlers struct {
